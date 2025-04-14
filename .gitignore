@@ -60,3 +60,11 @@ fastlane/report.xml
 fastlane/Preview.html
 fastlane/screenshots/**/*.png
 fastlane/test_output
+
+*.sf2
+.DS_Store
+byteStrum/byteStrum/resources/FluidR3_GM.sf2
+
+demo/
+
+

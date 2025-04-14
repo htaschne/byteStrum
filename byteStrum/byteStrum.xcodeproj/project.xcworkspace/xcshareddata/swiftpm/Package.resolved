@@ -1,0 +1,24 @@
+{
+  "originHash" : "bf645ae3d309b72f7da4b522e18ae92e28f1eca56a4f18244c6d4ba2397bcc18",
+  "pins" : [
+    {
+      "identity" : "colorizeswift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/mtynior/ColorizeSwift.git",
+      "state" : {
+        "revision" : "4e7daa138510b77a3cce9f6a31a116f8536347dd",
+        "version" : "1.7.0"
+      }
+    },
+    {
+      "identity" : "midiparser",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/yukiny0811/MidiParser",
+      "state" : {
+        "branch" : "master",
+        "revision" : "1edecc25e4432d14fb3a50fd02eb116f89d643e9"
+      }
+    }
+  ],
+  "version" : 3
+}
